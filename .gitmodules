@@ -1,0 +1,3 @@
+[submodule "react-desktop-frontend"]
+	path = react-desktop-frontend
+	url = git@github.com:minemanemo/react-desktop-frontend.git
